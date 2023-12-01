@@ -1,6 +1,6 @@
 # Da_Shuhua_LeapMotion
 "Da Shuhua" simulation by processing with Leap Motion <br />
-&nbsp;&nbsp;YouTube: https://youtu.be/tIkzwo37pI4
+&nbsp; YouTube: https://youtu.be/tIkzwo37pI4
 
 Final Display
 --------------------------------------------------
